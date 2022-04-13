@@ -34,7 +34,10 @@ header{
     background-color: black;
     color: white;
 }
-a:hover{color: red;}
+a:hover{
+    color: red;
+    font-size: x-large;
+}
 a{color:white};
 label{
     width: 100px;
@@ -89,6 +92,8 @@ input {
  #TokyoGuru:hover{
      color: red;
      text-decoration: underline white;
+     font-size: xxx-large;
+     margin-left:30%;
  }
  #contact{
      margin-top: 5%;
